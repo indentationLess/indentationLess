@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://web.archive.org/web/20090829233128/http://geocities.com/SiliconValley/Code/6019/Imagenesanimadas/bloodbar.gif"blank"><img align="center" src="https://web.archive.org/web/20090829233128/http://geocities.com/SiliconValley/Code/6019/Imagenesanimadas/bloodbar.gif" alt="spin" /> </a>
+  <a href="https://web.archive.org/web/20090829233128/http://geocities.com/SiliconValley/Code/6019/Imagenesanimadas/bloodbar.gif"blank"><img align="center" src="https://web.archive.org/web/20090829233128/http://geocities.com/SiliconValley/Code/6019/Imagenesanimadas/bloodbar.gif" alt="spin" loop=infinite> </a>
   
 <p align="center">
   <a href="https://i.imgur.com/G36Zg2w.gif" target="blank"><img align="center" src="https://web.archive.org/web/20091021032724/http://us.geocities.com/anime300/underconstruction.gif" alt="spin" /> </a>
