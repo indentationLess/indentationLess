@@ -31,4 +31,5 @@ Here you can find my personal projects where I like to mess around with differen
 <img align="center" src="https://shishka.neocities.org/shishka/img/blinkies/99.gif" alt="altf4" /></a>
 <img align="center" src="https://shishka.neocities.org/shishka/img/blinkies/118.gif" alt="altf4" /></a>
 <img align="center" src="https://shishka.neocities.org/shishka/img/blinkies/74.gif" alt="altf4" /></a>
+![](https://komarev.com/ghpvc/?indentationLess)
 </p>
