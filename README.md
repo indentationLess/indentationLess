@@ -6,6 +6,7 @@
 
 <h2 align="center">Hiiii welcome to my github profile!!</h2>
 
+![](https://komarev.com/ghpvc/?username=indentationLess)
 
 ``-bash: ./aboutMe: Permission denied``
 oops, gimme a sec
@@ -32,4 +33,3 @@ Here you can find my personal projects where I like to mess around with differen
 <img align="center" src="https://shishka.neocities.org/shishka/img/blinkies/118.gif" alt="altf4" /></a>
 <img align="center" src="https://shishka.neocities.org/shishka/img/blinkies/74.gif" alt="altf4" /></a>
 </p>
-![](https://komarev.com/ghpvc/?username=indentationLess)
